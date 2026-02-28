@@ -26,7 +26,7 @@ A simple python network time protocol server with simulated clients to test func
 
 ### What is the purpose of this project?
 
-This project aims to provide a simple program that can accurately simulate network time protocol severs that operate in real life.
+This project aims to provide a simple program that can accurately simulate network time protocol severs similar to ones that operate in real life.
 
 ### How can I install the project?
 

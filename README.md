@@ -32,7 +32,7 @@ This project aims to provide a simple program that can accurately simulate netwo
 
 ### How can I install the project?
 
-You can find detailed installation instructions in the `INSTALLATION.md` file.
+You can find detailed installation instructions in the [`INSTALLATION`](INSTALLATION.md) file.
 
 ### Where can I submit issues I found with the project?
 

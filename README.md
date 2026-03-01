@@ -1,7 +1,7 @@
 # Python Time Protocol
 A simple python network time protocol server with simulated clients to test functionality.
 ### 🌐 WEBSITE
-If you got here from the GitHub pages website, just click the blue title at the top to go to the repository page.
+If you got here from the GitHub pages website, just click the blue title at the top to go to the repository page. The pages website can be outdated at certain times, so it is recommended to click the title.
 ## FEATURES
 <details>
   <summary><b>🕑 ADVANCED FUNCTIONALITY</b></summary>

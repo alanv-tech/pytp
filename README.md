@@ -11,7 +11,7 @@ If you got here from the GitHub pages website, just click the blue title at the 
 <details>
   <summary><b>😊 EASE OF USE</b></summary>
   
-  It comes with a well polished TkInter GUI with easy to read fonts, and all program functionality is self explanatory. Refer to the wiki for more details if needed.
+  It comes with a well polished TkInter GUI with easy to read fonts, and all program functionality is self explanatory.
 </details>
 <details>
   <summary><b>💻 SIMULATED CLIENTS</b></summary>

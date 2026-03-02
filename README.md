@@ -4,9 +4,9 @@ A lightweight, educational implementation of a Network Time Protocol (NTP)–sty
 
 ---
 
-## 🌐 Repository Access
+## 🌐 Website
 
-If you arrived via the GitHub Pages site, please select the main project title to access the primary repository. The Pages site may not always reflect the latest updates; the repository contains the most current source code, documentation, and release notes.
+If you arrived via the GitHub Pages site, please select the main project title to access the primary repository. The Pages site may not always reflect the latest updates.
 
 ---
 
@@ -16,20 +16,19 @@ If you arrived via the GitHub Pages site, please select the main project title t
   <summary><b>🕑 Advanced Functionality</b></summary>
 
 - Operates as a local NTP-style server using `localhost` on port `8080`.
-- Simulates server-client time exchange to demonstrate synchronization principles.
+- Simulates server-client time exchange to demonstrate transfer protocols.
 - Maintains a comprehensive activity log that records:
   - 🔗 Client connection events  
-  - ⏱️ Time synchronization requests  
+  - ⏱️ Time synchronization events  
   - 📊 Offset calculations  
   - 📝 System activity and status updates  
-- Structured logging enables traceability and efficient debugging during testing.
 
 </details>
 
 <details>
   <summary><b>🎨 User-Friendly Interface</b></summary>
 
-- Built with a polished **Tkinter-based graphical user interface (GUI)**.
+- Built with a **Tkinter-based graphical user interface (GUI)**.
 - 🖥️ Clean typography and organized layout for intuitive navigation.
 - 🧭 Logical workflow with clearly labeled controls and self-explanatory actions.
 - Designed to be accessible for both beginners and users exploring time protocol concepts.
@@ -81,7 +80,7 @@ This project is best suited for:
 - 🎓 Educational demonstrations  
 - 🌐 Networking and distributed systems coursework  
 - 🐍 Python socket programming practice  
-- 🧠 Conceptual exploration of time synchronization mechanisms  
+- 🧠 Conceptual exploration of time protocol systems  
 
 ⚠️ This project is not intended for production deployment or replacement of enterprise-grade NTP infrastructure.
 

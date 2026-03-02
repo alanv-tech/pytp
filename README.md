@@ -65,7 +65,7 @@ This project demonstrates the foundational principles of Network Time Protocol s
 
 ### 📦 How can I install the project?
 
-The installation instructions are rigt below.
+The installation instructions are just a few scrolls away.
 
 ### 🐛 Where can I report issues or suggest improvements?
 

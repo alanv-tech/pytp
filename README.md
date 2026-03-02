@@ -118,7 +118,7 @@ If you prefer to download the entire project structure:
 
 ---
 
-## 🚀 Quick Start
+### 🚀 Quick Start
 
 Once you have the file, you can run it via the command line:
 

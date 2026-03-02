@@ -88,8 +88,6 @@ This project is best suited for:
 
 ## 📥 Installation
 
-There are three ways to install **PyTP**. We recommend **Method 1** for the best experience.
-
 ### 🐍 Method 1: Python Script (Recommended)
 This is the preferred method. Running the script directly through Python ensures the fastest execution and the most stable experience.
 

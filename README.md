@@ -65,7 +65,7 @@ This project demonstrates the foundational principles of Network Time Protocol s
 
 ### 📦 How can I install the project?
 
-Detailed setup and installation instructions are available in the [`INSTALLATION`](INSTALLATION.md) document within the repository.
+The installation instructions are rigt below.
 
 ### 🐛 Where can I report issues or suggest improvements?
 
